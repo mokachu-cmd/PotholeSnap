@@ -31,7 +31,7 @@ export function OnboardingGuide() {
             <div>
               <h3 className="font-semibold">1. Capture</h3>
               <p className="text-sm text-muted-foreground">
-                Take a clear picture of the pothole. For best results, capture it from directly above.
+                Take a clear picture of the pothole. For best results, capture it from directly above ensure the depth of the pothole can be seen.
               </p>
             </div>
           </div>
@@ -53,7 +53,7 @@ export function OnboardingGuide() {
             <div>
               <h3 className="font-semibold">3. Confirm & Submit</h3>
               <p className="text-sm text-muted-foreground">
-                Review the AI-generated data and submit the report to the relevant authorities.
+                Review the generated data and submit the report to Oyo State Ministry of Works and Transport.
               </p>
             </div>
           </div>
